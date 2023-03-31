@@ -1,5 +1,5 @@
 /* global deck, requestAnimationFrame, setTimeout */
-const lng = 74.0060;
+const lng = 74.006;
 const lat = 40.7128;
 
 deck.carto.setDefaultCredentials({
